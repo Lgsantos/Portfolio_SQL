@@ -14,6 +14,7 @@ Este repositório foi criado para demonstrar minhas habilidades em Banco de Dado
 ```
 Portfolio_SQL/
 │── consultas_sql/
+|   ├── dump_consultas_basicas.sql
 │   ├── consultas_basicas.sql
 │   ├── joins_avancados.sql
 │   ├── funcoes_armazenadas.sql
@@ -29,6 +30,7 @@ Portfolio_SQL/
 
 ### 1. **Consultas SQL**
 Contém scripts SQL que abrangem:
+- Dumps para criar as bases de dados que serão consultadas
 - Seleção e manipulação de dados (SELECT, INSERT, UPDATE, DELETE)
 - Junção de tabelas (JOIN, INNER JOIN, LEFT JOIN, RIGHT JOIN)
 - Funções agregadas e cálculos
