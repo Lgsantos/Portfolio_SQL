@@ -21,7 +21,7 @@ Portfolio_SQL/
 |   ├── dump_consultas_basicas.sql
 |   ├── dump_consultas_basicas1.sql
 |   ├── dump_visoes.sql
-│   ├── funcoes_armazenadas.sql
+│   ├── consultas_procedimentos_e_funcoes_armazenadas.sql
 │   ├── triggers.sql
 │── modelagem/
 │   ├── diagrama_ER.png
