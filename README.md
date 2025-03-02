@@ -16,6 +16,8 @@ Portfolio_SQL/
 │── consultas_sql/
 |   ├── dump_consultas_basicas.sql
 │   ├── consultas_basicas.sql
+|   ├── dump_consultas_basicas1.sql
+│   ├── consultas_basicas1.sql
 │   ├── joins_avancados.sql
 │   ├── funcoes_armazenadas.sql
 │   ├── triggers.sql
