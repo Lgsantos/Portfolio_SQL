@@ -14,13 +14,13 @@ Este repositório foi criado para demonstrar minhas habilidades em Banco de Dado
 ```
 Portfolio_SQL/
 │── consultas_sql/
-|   ├── dump_consultas_basicas.sql
 │   ├── consultas_basicas.sql
-|   ├── dump_consultas_basicas1.sql
 │   ├── consultas_basicas1.sql
-│   ├── joins_avancados_e_subconsultas.sql
+│   ├── consultas_joins_avancados_e_subconsultas.sql
+|   ├── consultas_visoes.sql
+|   ├── dump_consultas_basicas.sql
+|   ├── dump_consultas_basicas1.sql
 |   ├── dump_visoes.sql
-|   ├── visoes.sql
 │   ├── funcoes_armazenadas.sql
 │   ├── triggers.sql
 │── modelagem/
