@@ -18,7 +18,7 @@ Portfolio_SQL/
 │   ├── consultas_basicas.sql
 |   ├── dump_consultas_basicas1.sql
 │   ├── consultas_basicas1.sql
-│   ├── joins_avancados.sql
+│   ├── joins_avancados_e_subconsultas.sql
 │   ├── funcoes_armazenadas.sql
 │   ├── triggers.sql
 │── modelagem/
