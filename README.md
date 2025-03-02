@@ -17,11 +17,11 @@ Portfolio_SQL/
 │   ├── consultas_basicas.sql
 │   ├── consultas_basicas1.sql
 │   ├── consultas_joins_avancados_e_subconsultas.sql
+│   ├── consultas_procedimentos_e_funcoes_armazenadas.sql
 |   ├── consultas_visoes.sql
 |   ├── dump_consultas_basicas.sql
 |   ├── dump_consultas_basicas1.sql
 |   ├── dump_visoes.sql
-│   ├── consultas_procedimentos_e_funcoes_armazenadas.sql
 │   ├── triggers.sql
 │── modelagem/
 │   ├── diagrama_ER.png
