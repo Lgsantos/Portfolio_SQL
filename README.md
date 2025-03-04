@@ -7,6 +7,7 @@ Este repositório foi criado para demonstrar minhas habilidades em Banco de Dado
 - **MySQL**: Banco de dados relacional utilizado para a execução das consultas.
 - **XAMPP**: Ambiente de desenvolvimento local para gerenciamento do MySQL.
 - **MySQL Workbench**: Ferramenta gráfica para modelagem e execução de queries.
+- **BR Modelo Web**: Ferramenta para modelagem de banco de dados.
 - **GitHub**: Plataforma para versionamento e compartilhamento dos códigos.
 
 ## Estrutura do Repositório
@@ -42,7 +43,7 @@ Contém scripts SQL que abrangem:
 
 ### 2. **Modelagem de Banco de Dados**
 Inclui:
-- Diagramas Entidade-Relacionamento (DER) gerados no MySQL Workbench
+- Diagramas Entidade-Relacionamento (DER) gerados no BR Modelo Web
 - Scripts de criação de tabelas com suas chaves primárias e estrangeiras
 - Estruturas otimizadas para normalização de dados
 
