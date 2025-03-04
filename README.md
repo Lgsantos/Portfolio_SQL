@@ -14,6 +14,13 @@ Este repositório foi criado para demonstrar minhas habilidades em Banco de Dado
 
 ```
 Portfolio_SQL/
+│── automacao/
+│   ├── backup_automatico.sql
+│   ├── script_backup.sql
+│   ├── script_restauracao.sql
+│   ├── etl_csv_para_mysql.sql
+│   ├── etl_limpeza_dados.sql
+│   ├── etl_api_para_mysql.py
 │── consultas_sql/
 │   ├── consultas_basicas.sql
 │   ├── consultas_basicas1.sql
@@ -27,9 +34,6 @@ Portfolio_SQL/
 │── modelagem/
 │   ├── diagrama_ER.png
 │   ├── script_criacao_tabelas.sql
-│── automacao/
-│   ├── script_backup.sql
-│   ├── etl_dados_clientes.sql
 │── README.md
 ```
 
